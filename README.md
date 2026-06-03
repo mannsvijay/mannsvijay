@@ -9,7 +9,7 @@ Passionate about building impactful software, solving challenging problems, and 
 </p>
 
 #  About Me:
-<br>🔭 I’m currently working on Full-Stack Web Development, AI-powered applications, and growing Flickies 🚀<br><br>👯 I’m looking to collaborate on Open Source, SaaS products, and innovative web projects<br><br>🤝 I’m looking for help with System Design, Scalable Backend Architecture, and AI Engineering<br><br>🌱 I’m currently learning Data Structures & Algorithms, System Design, Cloud Technologies, and Full Stack Development<br><br>💬 Ask me about React.js, Node.js, Java, C++, Web Development, UI/UX, and Freelancing<br><br>⚡ Fun fact: I've earned ₹2L+ through projects & internships while balancing engineering, solved 700+ LeetCode problems, and co-founded a streetwear brand.
+<br>🔭 I’m currently working on Full-Stack Web Development, AI-powered applications. <br><br>👯 I’m looking to collaborate on Open Source, SaaS products, and innovative web projects<br><br>🤝 I’m looking for help with System Design, Scalable Backend Architecture, and AI Engineering<br><br>🌱 I’m currently learning Data Structures & Algorithms, System Design, Cloud Technologies, and Full Stack Development<br><br>💬 Ask me about React.js, Node.js, Java, C++, Web Development, UI/UX, and Freelancing<br><br>⚡ Fun fact: I've earned ₹2L+ through projects & internships while balancing engineering, solved 700+ LeetCode problems, and co-founded a streetwear brand.
 
 
 ## Socials:
